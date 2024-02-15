@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="content">
+    <name>Content - Font Awesome Icon</name>
+    <author>Maarten Blokdijk - Jmodules</author>
+    <creationDate>February 2024</creationDate>
+    <version>1.0.0</version>
+    <description>This plugin replaces {fas fa-home} with the Font Awesome home icon, and others like that. Simply publish the module and add the shortcode to your content or modules - for modules you must use the prepare content option!</description>
+    <files>
+        <filename plugin="fontawesomeicon">fontawesomeicon.php</filename>
+    </files>
+</extension>
