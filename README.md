@@ -6,3 +6,5 @@ Simply install and activate the plugin. For Joomla 4 higher
 
 
 Enjoy, and visit jmodules.com for more great Joomla Modules!
+
+#joomla #joomla4 #joomla5 #CMS
